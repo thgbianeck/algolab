@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ambiente Virtual
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# pytest
+.pytest_cache/
+.cache/
+
+# Windows
+Thumbs.db
+desktop.ini
