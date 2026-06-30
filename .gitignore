@@ -19,6 +19,9 @@ venv/
 .vscode/
 *.code-workspace
 
+# JetBrains
+.idea/
+
 # pytest
 .pytest_cache/
 .cache/

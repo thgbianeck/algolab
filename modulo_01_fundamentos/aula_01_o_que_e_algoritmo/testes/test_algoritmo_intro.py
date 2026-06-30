@@ -3,7 +3,7 @@
 # Execute com: pytest testes/ -v 
 
 # Importamos as três funções que vamos testar 
-from codigo.algoritmo_intro import fazer_sanduiche, calcular_media, e_maior_de_idade, e_par
+from codigo_01.algoritmo_intro import fazer_sanduiche, calcular_media, e_maior_de_idade, e_par
 
 
 # ============================================================
